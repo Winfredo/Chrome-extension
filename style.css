@@ -20,15 +20,25 @@ input{
     font-weight: bold;
 }
 
-button{
+#input-btn{
     width: 100px;
     height: 30px;
     background-color: #5f9341;
     border: none;
     outline: none;
-    font-size: 12px;
+    font-size: 11px;
     color: white;
     font-weight: bold;
+}
+
+#delete-btn{
+    width: 100px;
+    height: 30px;
+    color: #5f9341;
+    font-weight: bold;
+    font-size: 11px;
+    border: 1px solid #5f9341;
+
 }
 
 ul{
